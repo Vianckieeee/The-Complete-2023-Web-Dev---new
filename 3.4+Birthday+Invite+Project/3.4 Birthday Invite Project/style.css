@@ -1,0 +1,17 @@
+body{
+  
+  background-image: url("./assets/bdaybg.jpg");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-attachment: fixed; 
+}
+/* 
+bacground size = nag aadjust ung picture sa content ng html mo
+
+background-repeat = para hindi mag repeat ang image kasi nag aadjust/adapt ung iamge kung gano kalaki content ng html mo, kaya pag no repeat ang mangayare ay bitin ung picture mo kaya need mo ng background attatachment.
+
+background-attatchment = para pumantay sa buong html content mo ung pic, pag nag scroll din tanging laman ng html mo lang ang gagalaw at hindi ang BG pic
+
+
+
+*/
