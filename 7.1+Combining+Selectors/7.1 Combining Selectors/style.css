@@ -1,0 +1,37 @@
+/* Write your code here: */
+
+/* Group */
+h1, h2{
+  color: blueviolet;
+}
+
+
+/* child */
+div > p{
+  color: firebrick;
+}
+
+
+/* decendant */
+/* This is my code */
+.box ul{
+  color: blue;
+}
+
+/* This is the code of angela 
+.box li{
+  color: blue;
+}
+*/
+
+/* chaining */
+  li.done {
+  color: seagreen;
+}
+
+/* combining selectors */
+ul p.done{
+  font-size: 0.5rem;
+}
+
+
